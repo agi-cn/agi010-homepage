@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://agi010.cn/'
+# languageCode = 'en-us'
+languageCode = 'zh-CN'
+title = '超曲率'
+theme = "hugo-theme-console"
